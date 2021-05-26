@@ -1,6 +1,6 @@
 # Robert's Farm of Ideas: 11 -- Isolate the degradation product of fluoro-nucleosides 
 
-[![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
+[![DOI of this idea](https://zenodo.org/badge/doi/10.5281/zenodo.4808414.svg)](https://doi.org/10.5281/zenodo.4808414)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in short
