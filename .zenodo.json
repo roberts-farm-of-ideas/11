@@ -1,14 +1,16 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": "In the publication 'Spectral Unmixing-Based Reaction Monitoring of Transformations between Nucleosides and Nucleobases' (doi: https://doi.org/10.1002/cbic.202000204) it says: 'Fluorinated purine nucleosides 22 and 23 were found to be quite sensitive to alkaline conditions as these nucleosides underwent a temperature- and base-promoted side reaction (Figure S2), presumably by 5’−OH attack at the purine ring.' The compounds under discussion are: 2-fluoroadenosine (22) and 2’-deoxy-2-fluoroadenosine (23). While this speculation is probably true, it would be interesting to 1) find out whether this hypothesis was confirmed by previous researchers, and 2) to isolate the decomposition product to prove this hypothesis.", 
+    "title": "Robert's Farm of Ideas: 11 -- Isolate the degradation product of fluoro-nucleosides", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: <a href='https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA'>https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA</a>", 
+    "notes": "Development is happening here: <a href='https://github.com/roberts-farm-of-ideas/11'>https://github.com/roberts-farm-of-ideas/11</a>", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "degradation",
+        "fluoro-nucleosides",
+        "fluoro-modified nucleoside derivatives",
+        "chemistry",
+        "product isolation",
     ],
     "creators": [
     {
