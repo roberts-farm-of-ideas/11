@@ -1,10 +1,18 @@
-# Robert's Farm of Ideas: RUNNING_IDEA_NUMBER
+# Robert's Farm of Ideas: 11 -- Isolate the degradation product of fluoro-nucleosides 
 
 [![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in short
-It's good to have a template for multiple related things.
+
+In the publication "Spectral Unmixing-Based Reaction Monitoring of Transformations between Nucleosides and Nucleobases" (doi: https://doi.org/10.1002/cbic.202000204) it says:
+
+> Fluorinated purine nucleosides 22 and 23 were found to be quite sensitive to alkaline conditions as these nucleosides underwent a temperature- and base-promoted side reaction (Figure S2), presumably by 5’−OH attack at the purine ring.
+
+The compounds under discussion are: 2-fluoroadenosine (22) and 2’-deoxy-2-fluoroadenosine (23). 
+
+While this speculation is probably true, it would be interesting to 1) find out whether this hypothesis was confirmed by previous researchers, and 2) to isolate the decomposition product to prove this hypothesis. 
+
 
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
